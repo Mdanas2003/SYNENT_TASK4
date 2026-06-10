@@ -12,26 +12,33 @@ Hamburger menu for mobile screens
 JavaScript-powered menu toggle functionality
 Smooth and user-friendly navigation experience
 Clean and modern UI design
+
 Technologies Used
 HTML5
 CSS3
 JavaScript
+
 Project Structure
 Responsive-Navbar/
 │
 ├── index.html
 ├── style.css
 └── script.js
+
 How to Run
+
 Download or clone the project repository.
 Open the project folder.
 Ensure all files (index.html, style.css, and script.js) are in the same directory.
 Open index.html in a web browser.
+
 Functionality
+
 On desktop screens, all navigation links are displayed horizontally.
 On mobile screens, the navigation links are hidden by default.
 Clicking the hamburger icon toggles the visibility of the navigation menu.
 The layout automatically adjusts based on screen size using CSS media queries.
+
 Learning Outcomes
 
 Through this project, I will learn:
@@ -41,7 +48,9 @@ CSS Flexbox for layout creation
 Media queries for mobile responsiveness
 JavaScript DOM manipulation
 Event handling with JavaScript
+
 Future Enhancements
+
 Add smooth slide-in animations for the mobile menu
 Implement active link highlighting
 Add dropdown navigation menus
